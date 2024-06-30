@@ -46,7 +46,3 @@ webUI:
     label: "SigNoz Admin"
     login: "[ADMIN_EMAIL]"
     password: "[ADMIN_PASSWORD]"
-  - url: "https://[CI_CD_DOMAIN]:31497"
-    label: "pgAdmin"
-    login: "[ADMIN_EMAIL]"
-    password: "[ADMIN_PASSWORD]"

@@ -15,9 +15,3 @@ You can open SigNoz ADMIN UI here:
     URL: https://[CI_CD_DOMAIN]
     email: [ADMIN_EMAIL]
     password: [ADMIN_PASSWORD]
-
-You can open pgAdmin here:
-
-    URL: https://[CI_CD_DOMAIN]:31497
-    email: [ADMIN_EMAIL]
-    password: [ADMIN_PASSWORD]
