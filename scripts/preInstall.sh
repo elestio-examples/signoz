@@ -15,3 +15,4 @@ rm -rf ./storage/docker-compose-core.yaml
 rm -rf ./storage/docker-compose-local.yaml
 rm -rf ./storage/docker-compose.testing.yaml
 
+rm -rf ./signoz-repos
